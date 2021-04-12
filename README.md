@@ -10,4 +10,4 @@ Finally, We have to **predict the score if student studies for 9.25 hrs/day.**
 
 **Dataset :**  http://bit.ly/w-data
 
-**Algorithm used:**  Simple Linear Regression Machine Learning Algorithm is used.
+**Algorithm used:**  Simple Linear Regression Machine Learning Algorithm.
