@@ -1,4 +1,4 @@
-### The_Sparks_Foundation #GRIPAPR21  : Data Science and Business Analytics Internship
+### The_Sparks_Foundation #GRIPAPRIL21  : Data Science and Business Analytics Internship
 
 **Task 1 :**  Prediction Using Supervised Machine Learning Algorithm.
 
