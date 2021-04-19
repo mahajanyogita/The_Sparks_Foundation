@@ -12,10 +12,10 @@ Finally, We have to **predict the score if student studies for 9.25 hrs/day.**
 
 **Algorithm used:**  Simple Linear Regression Machine Learning Algorithm.
 
-**
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**
+
 **Task 2 :** Prediction Using Unsupervised ML
 
 **Problem Statement :** From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually
